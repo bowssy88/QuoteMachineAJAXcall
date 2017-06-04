@@ -1,0 +1,20 @@
+body {
+  background: #f5f5f5;
+}
+
+#button{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin: 80vh auto;
+  width: 300px;
+  height: 55px;
+}
+
+#quote{
+  position:fixed;
+  top:50vh;
+  left:50vh;
+  bottom:50vh;
+  right:20vh;
+}
